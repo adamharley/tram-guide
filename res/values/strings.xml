@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Supertram</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="stations_names">
+        <item>Travelling from/to&#8230;</item>
+        <item>Arbourthorne Road</item>
+        <item>Arena/Don Valley Stadium</item>
+        <item>Attercliffe</item>
+        <item>Bamforth Street</item>
+        <item>Beighton/Drake House Lane</item>
+        <item>Birley Lane</item>
+        <item>Birley Moor Road</item>
+        <item>Carbrook</item>
+        <item>Castle Square</item>
+        <item>Cathedral</item>
+        <item>City Hall</item>
+        <item>Cricket Inn Road</item>
+        <item>Crystal Peaks</item>
+        <item>Donetsk Way</item>
+        <item>Fitzalan Square/Ponds Forge</item>
+        <item>Gleadless Townend</item>
+        <item>Granville Road/The Sheffield College</item>
+        <item>Hackenthorpe</item>
+        <item>Halfway</item>
+        <item>Herdings Park</item>
+        <item>Herdings/Leighton Road</item>
+        <item>Hillsborough</item>
+        <item>Hillsborough Park</item>
+        <item>Hollinsend</item>
+        <item>Hyde Park</item>
+        <item>Infirmary Road</item>
+        <item>Langsett/Primrose View</item>
+        <item>Leppings Lane</item>
+        <item>Malin Bridge</item>
+        <item>Manor Top/Elm Tree</item>
+        <item>Meadowhall Interchange</item>
+        <item>Meadowhall South/Tinsley</item>
+        <item>Middlewood</item>
+        <item>Moss Way</item>
+        <item>Netherthorpe Road</item>
+        <item>Nunnery Square</item>
+        <item>Park Grange</item>
+        <item>Park Grange Croft</item>
+        <item>Shalesmoor</item>
+        <item>Sheffield Station/Sheffield Hallam University</item>
+        <item>Spring Lane</item>
+        <item>University of Sheffield</item>
+        <item>Valley Centertainment</item>
+        <item>Waterthorpe</item>
+        <item>West Street</item>
+        <item>Westfield</item>
+        <item>White Lane</item>
+        <item>Woodbourn Road</item>
+    </string-array>
+
+    <integer-array name="stations_ids">
+        <item>0</item>
+        <item>30</item>
+        <item>21</item>
+        <item>20</item>
+        <item>5</item>
+        <item>42</item>
+        <item>36</item>
+        <item>37</item>
+        <item>23</item>
+        <item>14</item>
+        <item>13</item>
+        <item>12</item>
+        <item>17</item>
+        <item>41</item>
+        <item>39</item>
+        <item>15</item>
+        <item>34</item>
+        <item>28</item>
+        <item>38</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>4</item>
+        <item>3</item>
+        <item>33</item>
+        <item>16</item>
+        <item>7</item>
+        <item>6</item>
+        <item>2</item>
+        <item>26</item>
+        <item>32</item>
+        <item>25</item>
+        <item>24</item>
+        <item>1</item>
+        <item>40</item>
+        <item>9</item>
+        <item>18</item>
+        <item>48</item>
+        <item>29</item>
+        <item>8</item>
+        <item>27</item>
+        <item>31</item>
+        <item>10</item>
+        <item>22</item>
+        <item>43</item>
+        <item>11</item>
+        <item>44</item>
+        <item>35</item>
+        <item>19</item>
+    </integer-array>
+
+    <string-array name="week_days">
+        <item>Monday-Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+    <string-array name="end_time">
+        <item>Departing at&#8230;</item>
+        <item>Arriving at&#8230;</item>
+    </string-array>
+    <string-array name="start_time">
+        <item>Not required</item>
+        <item>Departing at&#8230;</item>
+        <item>Arriving at&#8230;</item>
+    </string-array>
+
+    <string name="title_activity_map">Map</string>
+    <string name="title_activity_results">Results</string>
+    <string name="action_map">Map</string>
+    <string name="not_required">Not required</string>
+    <string name="travelling_from">Travelling from&#8230;</string>
+    <string name="travelling_to">Travelling to&#8230;</string>
+
+    <string name="viewstate">/wEPDwUKMTM5NTc3NDA4NQ9kFgICAQ9kFgwCAw9kFgRmD2QWAgICD2QWBAIBDw8WAh4LTmF2aWdhdGVVcmwFV2h0dHA6Ly93d3cudHJhdmVsc291dGh5b3Jrc2hpcmUuY29tL3RyYXZlbF9pbmZvcm1hdGlvbi90cmF2ZWxsaW5nX2J5X2Nhci9wYXJrX2FuZF9yaWRlL2RkAgMPDxYCHwAFV2h0dHA6Ly93d3cudHJhdmVsc291dGh5b3Jrc2hpcmUuY29tL3RyYXZlbF9pbmZvcm1hdGlvbi90cmF2ZWxsaW5nX2J5X2Nhci9wYXJrX2FuZF9yaWRlL2RkAgEPZBYCZg9kFgYCAQ8QDxYCHgtfIURhdGFCb3VuZGdkEBUxElRyYXZlbGxpbmcgZnJvbS4uLhFBcmJvdXJ0aG9ybmUgUm9hZBhBcmVuYS9Eb24gVmFsbGV5IFN0YWRpdW0LQXR0ZXJjbGlmZmUPQmFtZm9ydGggU3RyZWV0GUJlaWdodG9uL0RyYWtlIEhvdXNlIExhbmULQmlybGV5IExhbmUQQmlybGV5IE1vb3IgUm9hZAhDYXJicm9vaw1DYXN0bGUgU3F1YXJlCUNhdGhlZHJhbAlDaXR5IEhhbGwQQ3JpY2tldCBJbm4gUm9hZA1DcnlzdGFsIFBlYWtzC0RvbmV0c2sgV2F5G0ZpdHphbGFuIFNxdWFyZS9Qb25kcyBGb3JnZRFHbGVhZGxlc3MgVG93bmVuZCRHcmFudmlsbGUgUm9hZC9UaGUgU2hlZmZpZWxkIENvbGxlZ2UMSGFja2VudGhvcnBlB0hhbGZ3YXkNSGVyZGluZ3MgUGFyaxZIZXJkaW5ncy9MZWlnaHRvbiBSb2FkDEhpbGxzYm9yb3VnaBFIaWxsc2Jvcm91Z2ggUGFyawpIb2xsaW5zZW5kCUh5ZGUgUGFyaw5JbmZpcm1hcnkgUm9hZBZMYW5nc2V0dC9Qcmltcm9zZSBWaWV3DUxlcHBpbmdzIExhbmUMTWFsaW4gQnJpZGdlEk1hbm9yIFRvcC9FbG0gVHJlZRZNZWFkb3doYWxsIEludGVyY2hhbmdlGE1lYWRvd2hhbGwgU291dGgvVGluc2xleQpNaWRkbGV3b29kCE1vc3MgV2F5EU5ldGhlcnRob3JwZSBSb2FkDk51bm5lcnkgU3F1YXJlC1BhcmsgR3JhbmdlEVBhcmsgR3JhbmdlIENyb2Z0ClNoYWxlc21vb3ItU2hlZmZpZWxkIFN0YXRpb24vU2hlZmZpZWxkIEhhbGxhbSBVbml2ZXJzaXR5C1NwcmluZyBMYW5lF1VuaXZlcnNpdHkgb2YgU2hlZmZpZWxkFVZhbGxleSBDZW50ZXJ0YWlubWVudAtXYXRlcnRob3JwZQtXZXN0IFN0cmVldAlXZXN0ZmllbGQKV2hpdGUgTGFuZQ5Xb29kYm91cm4gUm9hZBUxATACMzACMjECMjABNQI0MgIzNgIzNwIyMwIxNAIxMwIxMgIxNwI0MQIzOQIxNQIzNAIyOAIzOAI0NQI0NgI0NwE0ATMCMzMCMTYBNwE2ATICMjYCMzICMjUCMjQBMQI0MAE5AjE4AjQ4AjI5ATgCMjcCMzECMTACMjICNDMCMTECNDQCMzUCMTkUKwMxZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2RkAgMPDxYCHgRUZXh0ZWRkAgUPEA8WAh8BZ2QQFTEQVHJhdmVsbGluZyB0by4uLhFBcmJvdXJ0aG9ybmUgUm9hZBhBcmVuYS9Eb24gVmFsbGV5IFN0YWRpdW0LQXR0ZXJjbGlmZmUPQmFtZm9ydGggU3RyZWV0GUJlaWdodG9uL0RyYWtlIEhvdXNlIExhbmULQmlybGV5IExhbmUQQmlybGV5IE1vb3IgUm9hZAhDYXJicm9vaw1DYXN0bGUgU3F1YXJlCUNhdGhlZHJhbAlDaXR5IEhhbGwQQ3JpY2tldCBJbm4gUm9hZA1DcnlzdGFsIFBlYWtzC0RvbmV0c2sgV2F5G0ZpdHphbGFuIFNxdWFyZS9Qb25kcyBGb3JnZRFHbGVhZGxlc3MgVG93bmVuZCRHcmFudmlsbGUgUm9hZC9UaGUgU2hlZmZpZWxkIENvbGxlZ2UMSGFja2VudGhvcnBlB0hhbGZ3YXkNSGVyZGluZ3MgUGFyaxZIZXJkaW5ncy9MZWlnaHRvbiBSb2FkDEhpbGxzYm9yb3VnaBFIaWxsc2Jvcm91Z2ggUGFyawpIb2xsaW5zZW5kCUh5ZGUgUGFyaw5JbmZpcm1hcnkgUm9hZBZMYW5nc2V0dC9Qcmltcm9zZSBWaWV3DUxlcHBpbmdzIExhbmUMTWFsaW4gQnJpZGdlEk1hbm9yIFRvcC9FbG0gVHJlZRZNZWFkb3doYWxsIEludGVyY2hhbmdlGE1lYWRvd2hhbGwgU291dGgvVGluc2xleQpNaWRkbGV3b29kCE1vc3MgV2F5EU5ldGhlcnRob3JwZSBSb2FkDk51bm5lcnkgU3F1YXJlC1BhcmsgR3JhbmdlEVBhcmsgR3JhbmdlIENyb2Z0ClNoYWxlc21vb3ItU2hlZmZpZWxkIFN0YXRpb24vU2hlZmZpZWxkIEhhbGxhbSBVbml2ZXJzaXR5C1NwcmluZyBMYW5lF1VuaXZlcnNpdHkgb2YgU2hlZmZpZWxkFVZhbGxleSBDZW50ZXJ0YWlubWVudAtXYXRlcnRob3JwZQtXZXN0IFN0cmVldAlXZXN0ZmllbGQKV2hpdGUgTGFuZQ5Xb29kYm91cm4gUm9hZBUxATACMzACMjECMjABNQI0MgIzNgIzNwIyMwIxNAIxMwIxMgIxNwI0MQIzOQIxNQIzNAIyOAIzOAI0NQI0NgI0NwE0ATMCMzMCMTYBNwE2ATICMjYCMzICMjUCMjQBMQI0MAE5AjE4AjQ4AjI5ATgCMjcCMzECMTACMjICNDMCMTECNDQCMzUCMTkUKwMxZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2RkAgcPFgIeB1Zpc2libGVoZAIJDxYCHwNoZAILDxYCHwNoZAINDxYCHwNoZAIPDxYCHwNoFgJmD2QWAmYPZBYCAgEPDxYCHwAFV2h0dHA6Ly93d3cudHJhdmVsc291dGh5b3Jrc2hpcmUuY29tL3RyYXZlbF9pbmZvcm1hdGlvbi90cmF2ZWxsaW5nX2J5X2Nhci9wYXJrX2FuZF9yaWRlL2RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQ1sbmtHZXRSZXN1bHRzKMVU0aE9Q3taTIOgNWJH0DgG99k=</string>
+	<string name="eventvalidation">/wEWrwEChu3Rmw0C2r6ZvwsCx77ZvAsCxL7VvAsCxL7ZvAsCwb6ZvwsCxr7RvAsCx77hvAsCx779vAsCxL7tvAsCxb7pvAsCxb7tvAsCxb7RvAsCxb79vAsCxr7VvAsCx761vwsCxb7lvAsCx77pvAsCxL65vwsCx765vwsCxr7lvAsCxr7hvAsCxr79vAsCxr6ZvwsCx76ZvwsCx77tvAsCxb7hvAsCw76ZvwsCwL6ZvwsCxL6ZvwsCxL7hvAsCx77RvAsCxL7lvAsCxL7pvAsCxb6ZvwsCxr7ZvAsC3b6ZvwsCxb65vwsCxr65vwsCxL61vwsC0r6ZvwsCxL79vAsCx77VvAsCxb7ZvAsCxL7RvAsCxr7tvAsCxb7VvAsCxr7pvAsCx77lvAsCxb61vwsCrJPcgQoCsZOcggoCspOQggoCspOcggoCt5PcgQoCsJOUggoCsZOkggoCsZO4ggoCspOoggoCs5OsggoCs5OoggoCs5OUggoCs5O4ggoCsJOQggoCsZPwgQoCs5OgggoCsZOsggoCspP8gQoCsZP8gQoCsJOgggoCsJOkggoCsJO4ggoCsJPcgQoCsZPcgQoCsZOoggoCs5OkggoCtZPcgQoCtpPcgQoCspPcgQoCspOkggoCsZOUggoCspOgggoCspOsggoCs5PcgQoCsJOcggoCq5PcgQoCs5P8gQoCsJP8gQoCspPwgQoCpJPcgQoCspO4ggoCsZOQggoCs5OcggoCspOUggoCsJOoggoCs5OQggoCsJOsggoCsZOgggoCs5PwgQoC0f7GzQMCzv7GzQMCz/7GzQMCzP7GzQMC0cLSxw0CzsLSxw0Cwb65rAsCwb69rAsCwb6hrAsCwb7lrwsCwb7prwsC3r6FrAsC3r6JrAsC3r6NrAsC3r6xrAsC3r61rAsC3r65rAsC3r69rAsC3r6hrAsC3r7lrwsC3r7prwsC376FrAsC376JrAsC376NrAsC376xrAsC3761rAsC3765rAsCrKD+jgsCrKDCjgsCs6D+jgsCs6DCjgsCsqD+jgsCsqDCjgsCsaD+jgsCsaDCjgsCsKD+jgsCsKDCjgsCt6D+jgsCt6DCjgsC+s3dxgoC6c2RxQoC9s2RxQoCk5uA2AECk5uE2AECk5uY2AECk5vc2wECk5vQ2wECjJu82AECjJuw2AECjJu02AECjJuI2AECjJuM2AECjJuA2AECjJuE2AECjJuY2AECjJvc2wECjJvQ2wECjZu82AECjZuw2AECjZu02AECjZuI2AECjZuM2AECjZuA2AEC1fqNkAYC1fqxkAYCyvqNkAYCyvqxkAYCy/qNkAYCy/qxkAYCyPqNkAYCyPqxkAYCyfqNkAYCyfqxkAYCzvqNkAYCzvqxkAYCmKe9wgqa/X+7U7UprpXOatkOsYhHk93+KA==</string>
+	<string name="page_url">http://planner.supertram.net/Default.aspx</string>
+    
+</resources>
